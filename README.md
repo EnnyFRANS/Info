@@ -8,3 +8,5 @@ I Speak 4 Languages:
 - English
 - French
 - Japanese
+
+I like also the programming language: JavaScript, HTML, CSS
